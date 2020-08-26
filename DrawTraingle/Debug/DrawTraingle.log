@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(262,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(416,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(417,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(420,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(421,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(424,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(425,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\DrawTraingle\main.cpp(433,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DrawTraingle.vcxproj -> C:\Users\zinrd\Desktop\C++Pratice\DrawTraingleCameraSpotLights\Debug\DrawTraingle.exe
